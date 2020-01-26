@@ -1,5 +1,5 @@
 This project is all about checking the content of a website.
-Here particularly the price of a particular book in a particular website
+Here particularly the price of a particular book in a particular website.
 
 The book name is "The Lean Startup by Eric Ries"
 The website name is "Flipkart.com"
